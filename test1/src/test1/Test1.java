@@ -5,7 +5,6 @@ public class Test1 {
 		System.out.println("主线");
 		System.out.println("分支");
 		System.out.println("哦");
-		System.out.println("黑黑恶黑");
 	}
 	//9898989
 	//679
