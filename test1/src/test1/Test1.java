@@ -5,6 +5,8 @@ public class Test1 {
 		System.out.println("主线");
 		System.out.println("分支");
 		System.out.println("哦");
+		System.out.println("黑黑恶黑");
+>>>>>>> branch 'master' of https://github.com/destroy007-li/test1.git
 	}
 	//9898989
 	//679
